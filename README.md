@@ -11,7 +11,7 @@ The project is divided into two parts:
 Dashboard snapshot
 ![Dashboard](Dashboard_image.png)
 
-The dashboard can be found [here](https://public.tableau.com/app/profile/mauro.del.valle/viz/RoadAccidents_17281488647540/Dashboard1).
+The dashboard can be found in [Tablue Public](https://public.tableau.com/app/profile/mauro.del.valle/viz/RoadAccidents_17281488647540/Dashboard1).
 
 ## Dataset
 The data was obteinded from [The U.S. Government's Open Data](https://catalog.data.gov/dataset/traffic-crashes-crashes).
